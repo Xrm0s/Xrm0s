@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=xrm0s&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=xrm0s&theme=dark)](https://github.com/pranesh-2005/github-readme-stats-fast" height="220" alt="streak graph" />
 
   <br><br>
   
