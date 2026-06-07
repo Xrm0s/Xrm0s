@@ -7,7 +7,4 @@
 <img src="https://skillicons.dev/icons?i=ts,js,py,nodejs,mongodb,html,css" />
 
 <br><br>
-
-currently breaking things and occasionally fixing them
-
 </div>
